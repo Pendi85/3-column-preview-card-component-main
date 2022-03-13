@@ -30,6 +30,7 @@ p {
     color: hsla(0, 0%, 100%, 0.75);
     margin-top: 30px;
     margin-bottom: 100px;
+    line-height: 27px;
 }
 
 .flex {
